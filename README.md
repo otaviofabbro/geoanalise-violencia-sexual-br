@@ -1,4 +1,4 @@
-# <center> **ANÁLISE GEOESPACIAL, SUBNOTIFICAÇÃO E BUSCADOR INTERATIVO DE SERVIÇOS DE ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA SEXUAL NO BRASIL**
+# **ANÁLISE GEOESPACIAL, SUBNOTIFICAÇÃO E BUSCADOR INTERATIVO DE SERVIÇOS DE ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA SEXUAL NO BRASIL**
 ---
 ## 👨‍💻 Autor
 
@@ -13,11 +13,15 @@
 
 No Brasil, o acesso a serviços especializados de atendimento a vítimas de violência sexual ainda é marcado por uma severa **desigualdade territorial** e por uma profunda fragmentação de informações institucionais. Este projeto nasce com dois objetivos concretos: **democratizar o acesso à rede de apoio** e **diagnosticar falhas estruturais nas políticas públicas de proteção**.
 
+<br>
+
 > ℹ️ **Sobre este projeto:**
 >
 > A primeira frente deste *notebook* consolida bases governamentais brutas em ferramentas de utilidade pública. Utilizando algoritmos geolocalizados, o sistema atua como um **"GPS de Acolhimento"**, calculando distâncias para conectar vítimas aos serviços mais próximos, transpondo as barreiras do "apagão" de infraestrutura em municípios do interior.
 >
 > Na segunda frente, realiza-se uma análise aprofundada da infraestrutura de acolhimento (Oferta) em contraste com os índices de violência (Demanda), evidenciando os gargalos geográficos através da análise de quadrantes.
+
+<br>
 
 Para além do mapeamento, o estudo mergulha em um dos fenômenos mais complexos da saúde pública: a **Cifra Oculta**. Ao cruzar registros de entrada em hospitais (SINAN), boletins de ocorrência em delegacias (Anuário de Segurança Pública) e estimativas científicas (IPEA/PNS), a análise cria **métricas derivadas de invisibilidade**, quantificando o exato tamanho do abismo institucional onde milhares de vítimas permanecem desamparadas.
 
@@ -34,8 +38,8 @@ A jornada dos dados está desenhada em uma progressão lógica, dividida nas seg
 | **3** | **Mapeamento Geoespacial** | Mapa interativo (`folium`) de alta precisão com painel de controle lateral para filtragem visual de categorias em tempo real. |
 | **4** | **Arquitetura da Rede** | Decomposição estadual da infraestrutura de atendimento (*Treemap* e *Stacked Bars*). |
 | **5** | **Termômetro da Violência** | Ranking de incidência criminal através da taxa de estupro por 100 mil mulheres. |
-| **6** | **Oferta vs. Demanda** | Análise de dispersão e quadrantes cruzando infraestrutura (*CNES*) com criminalidade (*Anuário*). |
-| **7** | **Descompasso Institucional** | Análise de divergência absoluta entre órgãos de Saúde e Polícia (Lollipops da *Cifra Oculta*). |
+| **6** | **Oferta vs. Demanda** | Análise de dispersão e quadrantes cruzando infraestrutura (*CNES*) com criminalidade (*Anuário Brasileiro de Segurança Pública*). |
+| **7** | **Descompasso Institucional** | Análise de divergência absoluta entre órgãos de Saúde e Polícia (*Lollipop Chart* da *Cifra Oculta*). |
 | **8** | **A Ponta do Iceberg** | Contraste em escala logarítmica dos dados formais contra a estimativa real estruturada pelo IPEA. |
 | **9** | **KPI de Invisibilidade** | Cálculo de subnotificação estadual evidenciando a distância entre a realidade e o Estado (*Dumbbell Plot*). |
 
