@@ -1,20 +1,14 @@
----
-# <center><font size='6'>**ANÁLISE GEOESPACIAL, SUBNOTIFICAÇÃO E BUSCADOR INTERATIVO DE SERVIÇOS DE ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA SEXUAL NO BRASIL**
+# <center> **ANÁLISE GEOESPACIAL, SUBNOTIFICAÇÃO E BUSCADOR INTERATIVO DE SERVIÇOS DE ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA SEXUAL NO BRASIL**
 ---
 ## 👨‍💻 Autor
 
 **Otávio Fabbro**
 • *Bacharel em Ciências Sociais (FFLCH-USP) e Especialista em Ciência de Dados (ICMC-USP)*
 
-Interessado na aplicação de dados para impacto social e políticas públicas. Sinta-se à vontade para entrar em contato para trocas de conhecimento ou oportunidades profissionais!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otaviofabbrodata)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=otaviofabbro2@gmail.com)
 
 ---
-*Este projeto é parte de um esforço contínuo para masterizar ferramentas de análise e engenharia de dados (Python, SQL, Power BI) aplicadas a contextos sociais complexos.*
----
-
 ## 📌 Contexto e Objetivo
 
 No Brasil, o acesso a serviços especializados de atendimento a vítimas de violência sexual ainda é marcado por uma severa **desigualdade territorial** e por uma profunda fragmentação de informações institucionais. Este projeto nasce com dois objetivos concretos: **democratizar o acesso à rede de apoio** e **diagnosticar falhas estruturais nas políticas públicas de proteção**.
