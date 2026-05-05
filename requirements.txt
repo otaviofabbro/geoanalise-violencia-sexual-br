@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+folium
+ipywidgets
+HTML5 
+CSS3 
