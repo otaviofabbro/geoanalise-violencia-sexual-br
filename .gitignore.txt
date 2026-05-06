@@ -1,5 +1,8 @@
 # Ignorar pastas de ambiente virtual
 venv/
 env/
-.ipynb_checkpoints/
 __pycache__/
+**/.html/
+# Ignorar checkpoints do Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
