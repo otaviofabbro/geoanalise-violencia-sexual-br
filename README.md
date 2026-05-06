@@ -293,7 +293,7 @@ jupyter notebook notebooks/violencia_sexual_e_estabelecimentos_servicos_especial
     <td align="center">
       <b>Otávio Fabbro Machado</b><br/>
       Bacharel em Ciências Sociais (FFLCH-USP)<br/>
-      Especialista em Ciência de Dados — ICMC-USP<br/><br/>
+      Especialista em Ciência de Dados (ICMC-USP)<br/><br/>
       <a href="https://www.linkedin.com/in/otaviofabbrodata">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
       </a>
@@ -308,6 +308,7 @@ jupyter notebook notebooks/violencia_sexual_e_estabelecimentos_servicos_especial
 </table>
 
 </div>
+
 ---
 
 <div align="center">
