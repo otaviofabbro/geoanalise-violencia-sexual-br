@@ -14,11 +14,12 @@
   <img src="https://img.shields.io/badge/Área-Políticas_Públicas-6A0DAD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tema-Saúde_Pública-2ECC71?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Dados-CNES_·_SINAN_·_FBSP_·_IPEA-E67E22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Demandado_por-MPF_·_PFDC-003082?style=for-the-badge"/>
 </p>
 
 <br/>
 
-> *"A esmagadora maioria das vítimas de violência sexual no Brasil sofre em silêncio absoluto, sem nunca pisar em um hospital ou delegacia. Planejar a rede de acolhimento baseando-se apenas em Boletins de Ocorrência é preparar o Estado para acolher apenas a ponta do iceberg."*
+> *A esmagadora maioria das vítimas de violência sexual no Brasil sofre em silêncio absoluto, sem nunca pisar em um hospital ou delegacia. Planejar a rede de acolhimento baseando-se apenas em Boletins de Ocorrência é preparar o Estado para acolher apenas a ponta do iceberg.*
 
 <br/>
 
@@ -45,9 +46,17 @@
 
 ## 🔭 Visão Geral
 
-Este projeto nasce de dois objetivos concretos e complementares: **democratizar o acesso à rede de apoio** às vítimas de violência sexual no Brasil e **diagnosticar falhas estruturais nas políticas públicas de proteção**.
+Este projeto foi desenvolvido a pedido da [**Comissão de Igualdade de Gênero da Procuradoria
+Federal dos Direitos do Cidadão (MPF)**](https://www.mpf.mp.br/atuacao/pfdc/comissoes-e-rts/igualdade-de-genero)
+e nasce de dois objetivos concretos e complementares: **democratizar o acesso à rede de apoio**
+às vítimas de violência sexual no Brasil e **diagnosticar falhas estruturais nas políticas
+públicas de proteção**.
 
-O trabalho não é uma análise estática — é um conjunto de **ferramentas de utilidade pública e diagnóstico territorial** construídas sobre dados governamentais abertos. Ao cruzar registros de hospitais (SINAN), boletins de ocorrência (Anuário de Segurança Pública) e estimativas científicas (IPEA/PNS), o projeto cria **métricas derivadas de invisibilidade** que quantificam o tamanho do abismo institucional onde milhares de vítimas permanecem desamparadas.
+O trabalho não é uma análise estática — é um conjunto de **ferramentas de utilidade pública
+e diagnóstico territorial** construídas sobre dados governamentais abertos. Ao cruzar registros
+de hospitais (SINAN), boletins de ocorrência (Anuário de Segurança Pública) e estimativas
+científicas (IPEA/PNS), o projeto cria **métricas derivadas de invisibilidade** que quantificam
+o tamanho do abismo institucional onde milhares de vítimas permanecem desamparadas.
 
 ---
 
