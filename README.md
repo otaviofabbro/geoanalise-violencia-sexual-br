@@ -19,6 +19,21 @@
 
 <br/>
 
+<br/>
+
+<div align="center">
+  
+  <a href="https://otaviofabbro.github.io/geoanalise-violencia-sexual-br/">
+    <img width="500" src="https://img.shields.io/badge/▶_CLIQUE_AQUI_PARA_ACESSAR_A_APRESENTAÇÃO-003082?style=for-the-badge"/>
+  </a>
+  
+  <p><i>👆 Clique no botão acima para abrir a versão final com os mapas, buscadores e gráficos dinâmicos no seu navegador.</i></p>
+</div>
+
+<br/>
+
+<br/>
+
 > *A esmagadora maioria das vítimas de violência sexual no Brasil sofre em silêncio absoluto, sem nunca pisar em um hospital ou delegacia. Planejar a rede de acolhimento baseando-se apenas em Boletins de Ocorrência é preparar o Estado para acolher apenas a ponta do iceberg.*
 
 <br/>
